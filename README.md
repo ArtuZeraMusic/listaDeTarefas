@@ -138,8 +138,6 @@ git push -u origin main
 
 Substitua `<URL_DO_SEU_REPOSITORIO_GITHUB>` pela URL real do seu repositório no GitHub (ex: `https://github.com/seu-usuario/projeto-tarefas.git`).
 
----
-
-**Autor:** Manus AI
+ArtuZera Music!
 
 
