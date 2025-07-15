@@ -1,6 +1,6 @@
 # Projeto Lista de Tarefas
 
-Este projeto é uma aplicação completa de "Lista de Tarefas" (To-Do List) desenvolvida com um back-end em Java Spring Boot e um front-end em Angular. Ele foi criado com o objetivo de ser uma peça de portfólio didática e funcional para desenvolvedores júnior, demonstrando as melhores práticas de desenvolvimento full-stack.
+Este projeto é uma aplicação completa de "Lista de Tarefas" (To-Do List) desenvolvida com um back-end em Java Spring Boot e um front-end em Angular.
 
 ## Funcionalidades
 
@@ -61,8 +61,6 @@ O projeto é organizado em duas subpastas principais:
 
 ## Como Executar o Projeto
 
-Siga os passos abaixo para clonar o repositório, instalar as dependências e executar o back-end e o front-end.
-
 ### Pré-requisitos
 
 Certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
@@ -78,7 +76,7 @@ Certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 Abra seu terminal ou prompt de comando e execute o seguinte comando:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/ArtuZeraMusic/listaDeTarefas
 cd projeto-tarefas
 ```
 
@@ -120,23 +118,6 @@ ng serve --open
 
 O comando `--open` abrirá automaticamente seu navegador padrão na URL `http://localhost:4200`, onde você poderá interagir com a aplicação "Lista de Tarefas".
 
-## Comandos para Publicação no GitHub
-
-Para publicar este projeto em um novo repositório no GitHub (assumindo que você já criou um repositório vazio no site do GitHub e copiou a URL do repositório remoto):
-
-```bash
-# Certifique-se de estar na pasta raiz do projeto (projeto-tarefas)
-cd /caminho/para/projeto-tarefas
-
-git init
-git add .
-git commit -m "Initial commit: Projeto Lista de Tarefas"
-git branch -M main
-git remote add origin <URL_DO_SEU_REPOSITORIO_GITHUB>
-git push -u origin main
-```
-
-Substitua `<URL_DO_SEU_REPOSITORIO_GITHUB>` pela URL real do seu repositório no GitHub (ex: `https://github.com/seu-usuario/projeto-tarefas.git`).
 
 ArtuZera Music!
 
